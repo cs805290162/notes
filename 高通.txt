@@ -1,0 +1,19 @@
+		linkly unlikely
+
+虚拟内存原理
+虚拟地址修改物理地址
+camera2hal的接口都有哪些
+Dma有cpu访问同一地址，怎么解决
+volatile关键字
+linux io模型push ,select
+内置相机出图流程，组建
+
+设计模式
+依赖倒置
+观察者模式
+工程中设计模式
+
+相机驱动
+isp
+
+
