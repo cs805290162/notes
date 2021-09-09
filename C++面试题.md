@@ -38,5 +38,4 @@ https://mp.weixin.qq.com/s/qhFERQ1odNkgZS0PkHm1EA
 
 2，函数覆盖指的是子类同名函数同参数函数覆盖父类函数。
 
-![image](https://user-images.githubusercontent.com/18330232/132699799-6822c2a6-9b1a-487a-841d-8790733fa909.png)
 
